@@ -1,0 +1,10 @@
+.choose {
+  position: relative;
+  left: 100px;
+  width: 500px;
+}
+
+.contain {
+  position: relative;
+  left: 400px;
+}
